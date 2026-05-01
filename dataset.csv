@@ -1,0 +1,11 @@
+Train_Name,Source_Station,Destination_Station,Distance,Stops,Departure_Time,Arrival_Time
+Rajdhani Express,Delhi,Mumbai,1400,5,06:00,20:00
+Shatabdi Express,Delhi,Chandigarh,250,3,07:00,11:00
+Duronto Express,Mumbai,Kolkata,2000,6,08:00,22:00
+Garib Rath,Delhi,Patna,1000,7,09:00,21:00
+Intercity Express,Ahmedabad,Surat,300,4,10:00,14:00
+Superfast Express,Chennai,Bangalore,350,5,06:30,12:30
+Mail Express,Kolkata,Delhi,1500,8,05:00,23:00
+Passenger Train,Jaipur,Delhi,280,10,11:00,18:00
+Jan Shatabdi,Pune,Mumbai,150,2,08:30,11:30
+Tejas Express,Mumbai,Goa,600,4,07:00,15:00
